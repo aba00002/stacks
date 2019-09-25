@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Raleway&display=swap');
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Raleway, Roboto, sans-serif;
 }
 
 html {
@@ -19,6 +22,7 @@ header {
   background-color: hsl(60deg, 50%, 50%);
   color: #eee;
   font-size: 3rem;
+  font-family: Merriweather, Lora, serif;
 }
 
 nav {
