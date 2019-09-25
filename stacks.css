@@ -22,9 +22,11 @@ header {
   background-color: hsl(60deg, 50%, 50%);
   color: #eee;
   font-size: 3rem;
+  
+}
+h1{
   font-family: Merriweather, Lora, serif;
 }
-
 nav {
   padding: 1rem 2rem;
   display: flex;
@@ -45,6 +47,7 @@ main {
 
 main h2 {
   font-size: 2rem;
+  font-family: Merriweather, Lora, serif;
 }
 
 main p {
