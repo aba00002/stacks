@@ -4,7 +4,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: Raleway, Roboto, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
 }
 
 html {
@@ -24,7 +24,7 @@ header {
   font-size: 3rem;  
 }
 h1,h2{
-  font-family: Merriweather, Lora, serif;
+  font-family: Merriweather, "Times New Roman", serif;
 }
 nav {
   padding: 1rem 2rem;
